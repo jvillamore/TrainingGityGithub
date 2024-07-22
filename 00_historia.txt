@@ -2,6 +2,10 @@ hola este un ejemplo
 
 esta es una segunda linea
 
+<<<<<<< HEAD
 tercera linea añadida
 
 Se adicinaron espacios
+=======
+tercer cambio nuevo pq el otro neee
+>>>>>>> cabecera
