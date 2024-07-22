@@ -1,0 +1,10 @@
+body{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color: blueviolet;
+ text-align: center;
+}
+
+.container{
+    padding: 10px 10px 10px 10px;
+    color: burlywood;
+}
