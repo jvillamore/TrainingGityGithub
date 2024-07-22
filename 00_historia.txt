@@ -1,2 +1,7 @@
 hola este un ejemplo
+
 esta es una segunda linea
+
+tercera linea añadida
+
+Se adicinaron espacios
