@@ -3,3 +3,8 @@ body{
  color: blueviolet;
  text-align: center;
 }
+
+.container{
+    padding: 10px 10px 10px 10px;
+    color: burlywood;
+}
