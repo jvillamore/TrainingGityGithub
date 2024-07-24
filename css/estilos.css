@@ -1,19 +1,27 @@
-body{
- font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
- color: blueviolet;
- text-align: center;
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+    text-align: center;
 }
 
-.container{
+.container {
     padding: 10px 10px 10px 10px;
     color: burlywood;
 }
-#cabecera{
+
+#cabecera {
     background-color: chocolate;
     font-size: 22px;
 }
-#cabecera2{
+
+#cabecera2 {
     background-color: darkgreen;
     font-size: 18px;
     color: white;
+}
+
+#footer-css {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darksalmon;
 }
